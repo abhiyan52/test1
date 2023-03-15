@@ -1,0 +1,24 @@
+,,,,,,,,
+,name,description,wbc_count,decision_1,,,,
+,Elevated WBC count,(Decline)WBC count is more than 12000,>12000,Decline,,,,
+,,,,,,,,
+,name,description,esr,fbs,hba1c,total_cholesterol,triglycerides,decision_1
+,Elevated ESR,(Decline)Elevated ESR,>60,,,,,Decline
+,Elevated FBS,(Decline)Elevated FBS,,>118,,,,Decline
+,Elevated HBA1C,(Decline)Elevated HBA1C,,,>9,,,Decline
+,Elevated Total Cholestrol,(Decline)Elevated Total Cholestrol,,,,>500,,Decline
+,Elevated Triglycerides,(Decline)Elevated Triglycerides,,,,,>600,Decline
+,,,,,,,,
+,name,description,SGPT,SGOT,GGTP,decision_1,,
+,Elevated SGPT,(Decline)Elevated SGPT,>300,,,Decline,,
+,Elevated SGOT,(Decline)Elevated SGOT,,>300,,Decline,,
+,Elevated GGTP,(Decline)Elevated GGTP,,,>300,Decline,,
+,,,,,,,,
+,name,description,bilirubin,decision_1,,,,
+,Elevated Bilirubin,(Decline)Elevated Bilirubin,>3,Decline,,,,
+,,,,,,,,
+,name,description,haemoglobin,decision_1,,,,
+,Low Haemoglobin,(Decline)Low Haemoglobin,<7.5,Decline,,,,
+,,,,,,,,
+,name,description,platelet_count,decision_1,,,,
+,Low Platelet Count,(Decline)Low Platelet Count,<100000,Low Platelet Count,,,,
